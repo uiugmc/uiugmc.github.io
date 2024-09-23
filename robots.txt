@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uiugmc.github.io/sitemap.html.gz
+Sitemap: https://uiugmc.github.io/app/sitemap.html.gz
+Sitemap: https://uiugmc.github.io/assets/sitemap.html.gz
+Sitemap: https://uiugmc.github.io/css/sitemap.html.gz
+Sitemap: https://uiugmc.github.io/data/sitemap.html.gz
+Sitemap: https://uiugmc.github.io/includes/sitemap.html.gz
+Sitemap: https://uiugmc.github.io/item/sitemap.html.gz
+Sitemap: https://uiugmc.github.io/src/sitemap.html.gz
